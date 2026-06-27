@@ -66,16 +66,16 @@ I like practical software: automation, infrastructure helpers, small desktop uti
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, June 27th, 2026, 12:38:59 PM
+Last updated: Saturday, June 27th, 2026, 4:05:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened a pull request in [shep-ai/shep](https://github.com/shep-ai/shep)<br>
-2. Forked [AlexMnrs/shep](https://github.com/AlexMnrs/shep) from [shep-ai/shep](https://github.com/shep-ai/shep)<br>
-3. Opened a pull request in [dsccommunity/SqlServerDsc](https://github.com/dsccommunity/SqlServerDsc)<br>
-4. Forked [AlexMnrs/SqlServerDsc](https://github.com/AlexMnrs/SqlServerDsc) from [dsccommunity/SqlServerDsc](https://github.com/dsccommunity/SqlServerDsc)<br>
-5. Commented in [detain/scoop-emulators](https://github.com/detain/scoop-emulators)<br>
-6. Opened a pull request in [workswithagents/scripts](https://github.com/workswithagents/scripts)<br>
+1. Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+2. Updated [AlexMnrs/SqlServerDsc](https://github.com/AlexMnrs/SqlServerDsc)<br>
+3. Opened a pull request in [chendbox/mlis](https://github.com/chendbox/mlis)<br>
+4. Forked [AlexMnrs/mlis](https://github.com/AlexMnrs/mlis) from [chendbox/mlis](https://github.com/chendbox/mlis)<br>
+5. Forked [AlexMnrs/phishguard-ai](https://github.com/AlexMnrs/phishguard-ai) from [omobolajiadeyan/phishguard-ai](https://github.com/omobolajiadeyan/phishguard-ai)<br>
+6. Opened a pull request in [Renn-Labs/LoopPrint](https://github.com/Renn-Labs/LoopPrint)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
