@@ -1,0 +1,24 @@
+name: Update profile activity
+
+on:
+  schedule:
+    - cron: "18 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Refresh recent public activity
+        uses: Readme-Workflows/recent-activity@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: AlexMnrs
+          CONFIG_FILE: .github/recent-activity.config.yml
