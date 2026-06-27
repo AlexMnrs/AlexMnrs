@@ -66,16 +66,16 @@ I like practical software: automation, infrastructure helpers, small desktop uti
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, June 27th, 2026, 12:37:31 PM
+Last updated: Saturday, June 27th, 2026, 12:38:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed undefined commit(s) to [AlexMnrs/AlexMnrs](https://github.com/AlexMnrs/AlexMnrs)<br>
-2. Pushed undefined commit(s) to [AlexMnrs/AlexMnrs](https://github.com/AlexMnrs/AlexMnrs)<br>
-3. Pushed undefined commit(s) to [AlexMnrs/AlexMnrs](https://github.com/AlexMnrs/AlexMnrs)<br>
-4. Pushed undefined commit(s) to [AlexMnrs/AlexMnrs](https://github.com/AlexMnrs/AlexMnrs)<br>
-5. Opened PR [#801](undefined) in [shep-ai/shep](https://github.com/shep-ai/shep)<br>
-6. Forked [AlexMnrs/shep](https://github.com/AlexMnrs/shep) from [shep-ai/shep](https://github.com/shep-ai/shep)<br>
+1. Opened a pull request in [shep-ai/shep](https://github.com/shep-ai/shep)<br>
+2. Forked [AlexMnrs/shep](https://github.com/AlexMnrs/shep) from [shep-ai/shep](https://github.com/shep-ai/shep)<br>
+3. Opened a pull request in [dsccommunity/SqlServerDsc](https://github.com/dsccommunity/SqlServerDsc)<br>
+4. Forked [AlexMnrs/SqlServerDsc](https://github.com/AlexMnrs/SqlServerDsc) from [dsccommunity/SqlServerDsc](https://github.com/dsccommunity/SqlServerDsc)<br>
+5. Commented in [detain/scoop-emulators](https://github.com/detain/scoop-emulators)<br>
+6. Opened a pull request in [workswithagents/scripts](https://github.com/workswithagents/scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
