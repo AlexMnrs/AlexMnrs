@@ -66,16 +66,16 @@ I like practical software: automation, infrastructure helpers, small desktop uti
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, June 28th, 2026, 6:48:36 AM
+Last updated: Sunday, June 28th, 2026, 4:14:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [codingmoh/open-codex](https://github.com/codingmoh/open-codex)<br>
-2. Opened a pull request in [pmady/keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)<br>
-3. Forked [AlexMnrs/keda-gpu-scaler](https://github.com/AlexMnrs/keda-gpu-scaler) from [pmady/keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)<br>
-4. Opened a pull request in [betobetico/claude-para-abogados](https://github.com/betobetico/claude-para-abogados)<br>
-5. Forked [AlexMnrs/claude-para-abogados](https://github.com/AlexMnrs/claude-para-abogados) from [betobetico/claude-para-abogados](https://github.com/betobetico/claude-para-abogados)<br>
-6. Starred [santmun/crear-agente](https://github.com/santmun/crear-agente)<br>
+1. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+2. Opened a pull request in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+3. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+4. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+5. Opened a pull request in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+6. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
