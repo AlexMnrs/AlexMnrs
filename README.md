@@ -66,16 +66,16 @@ I like practical software: automation, infrastructure helpers, small desktop uti
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, June 27th, 2026, 4:05:23 PM
+Last updated: Sunday, June 28th, 2026, 6:48:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-2. Updated [AlexMnrs/SqlServerDsc](https://github.com/AlexMnrs/SqlServerDsc)<br>
-3. Opened a pull request in [chendbox/mlis](https://github.com/chendbox/mlis)<br>
-4. Forked [AlexMnrs/mlis](https://github.com/AlexMnrs/mlis) from [chendbox/mlis](https://github.com/chendbox/mlis)<br>
-5. Forked [AlexMnrs/phishguard-ai](https://github.com/AlexMnrs/phishguard-ai) from [omobolajiadeyan/phishguard-ai](https://github.com/omobolajiadeyan/phishguard-ai)<br>
-6. Opened a pull request in [Renn-Labs/LoopPrint](https://github.com/Renn-Labs/LoopPrint)<br>
+1. Starred [codingmoh/open-codex](https://github.com/codingmoh/open-codex)<br>
+2. Opened a pull request in [pmady/keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)<br>
+3. Forked [AlexMnrs/keda-gpu-scaler](https://github.com/AlexMnrs/keda-gpu-scaler) from [pmady/keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)<br>
+4. Opened a pull request in [betobetico/claude-para-abogados](https://github.com/betobetico/claude-para-abogados)<br>
+5. Forked [AlexMnrs/claude-para-abogados](https://github.com/AlexMnrs/claude-para-abogados) from [betobetico/claude-para-abogados](https://github.com/betobetico/claude-para-abogados)<br>
+6. Starred [santmun/crear-agente](https://github.com/santmun/crear-agente)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
