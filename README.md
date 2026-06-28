@@ -1,39 +1,85 @@
-# Alex Monras
+<div align="center">
 
-I build practical systems tooling for Windows, infrastructure, automation, and developer workflows.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:22c55e&text=LeX%20%7C%20Alex%20Monras&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Sysadmin%20%2B%20Computer%20Science%20enthusiast&descAlign=50&descAlignY=58&animation=fadeIn)
 
-My work is focused on small but useful tools, clear setup paths, reliable documentation, and focused open-source contributions. I care about making technical workflows easier to run, verify, and maintain.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Automating+the+boring+parts;PowerShell%2C+Python%2C+TypeScript;Infrastructure%2C+tooling%2C+small+useful+apps;Open-source+PRs+and+hands-on+systems+work)](https://git.io/typing-svg)
 
-## Current Focus
+[![Profile views](https://komarev.com/ghpvc/?username=AlexMnrs&style=for-the-badge&color=22c55e)](https://github.com/AlexMnrs)
+[![GitHub followers](https://img.shields.io/github/followers/AlexMnrs?style=for-the-badge&logo=github&color=1d4ed8)](https://github.com/AlexMnrs?tab=followers)
+[![GitHub since 2015](https://img.shields.io/badge/GitHub-since%202015-0f172a?style=for-the-badge&logo=github)](https://github.com/AlexMnrs)
 
-- **Windows and infrastructure tooling:** PowerShell, setup flows, validation, and repeatable local workflows.
-- **Developer experience:** practical utilities, clear documentation, CI-friendly checks, and project hygiene.
-- **Open-source collaboration:** focused pull requests that improve setup, docs, troubleshooting, and maintainability.
-- **Product-minded utilities:** simple apps that solve a real workflow problem and are easy to try.
+</div>
 
-## Selected Projects
+## What I build
 
-| Project | What it is | Why it matters |
-|---|---|---|
-| [PromptFlow](https://github.com/AlexMnrs/PromptFlow) | Mobile-first teleprompter PWA with camera preview, browser recording, and optional voice-following. | A usable web app with a live demo, CI, clear browser constraints, and a practical creator workflow. |
-| [UltraShare](https://github.com/AlexMnrs/UltraShare) | Windows utility for sharing a clean 16:9 region from ultrawide monitors. | Helps presenters, streamers, and remote workers avoid black bars and awkward screen-sharing layouts. |
-| [VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup) | PowerShell workflow helper for VMware snapshot reset and cleanup routines. | Turns a repetitive sysadmin task into a safer, repeatable workflow with interactive and scripted usage. |
+I like practical software: automation, infrastructure helpers, small desktop utilities, scripts that save time, and clean fixes to projects I use.
 
-## Recent Upstream Contributions
+- Systems and automation: PowerShell, Windows, SQL Server tooling, setup scripts.
+- Useful utilities: Python tools, network checks, file sharing, desktop helpers.
+- Web and product experiments: TypeScript, UI workflows, browser-based tools.
+- Open source: focused PRs, maintenance fixes, validation, and repo hygiene.
 
-- [dsccommunity/SqlServerDsc#2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463) - fixed duplicate wording in localized SQL Server DSC resource strings.
-- [RonaldHensbergen/composable-data-stack#100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100) - added Windows setup instructions and normalized path output for tests.
-- [Renn-Labs/LoopPrint#12](https://github.com/Renn-Labs/LoopPrint/pull/12) - added a Windows install helper and documented the PowerShell setup path.
-- [pmady/keda-gpu-scaler#108](https://github.com/pmady/keda-gpu-scaler/pull/108) - added deployment troubleshooting documentation for GPU scaler users.
+## Activity at a glance
 
-## How I Work
+<div align="center">
 
-- Start from a real workflow problem.
-- Keep changes focused and easy to review.
-- Verify with local commands whenever possible.
-- Write public documentation in clear English.
-- Prefer useful, maintainable improvements over broad but shallow changes.
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexMnrs&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20graph)
 
-## Profile Direction
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=AlexMnrs&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=GitHub%20stats" alt="AlexMnrs GitHub stats" />
+<img height="168" src="https://streak-stats.demolab.com?user=AlexMnrs&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="AlexMnrs GitHub streak" />
 
-I am currently polishing a small set of owned projects while continuing targeted upstream contributions. The goal is to build a GitHub profile that is useful to other developers and credible to maintainers: fewer random repositories, stronger project presentation, and clearer evidence of practical work.
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMnrs&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+
+</div>
+
+## Selected projects
+
+<div align="center">
+
+[![UltraShare](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=UltraShare&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/UltraShare)
+[![SimpleAlwaysOnTop](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=SimpleAlwaysOnTop&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/SimpleAlwaysOnTop)
+[![VMSnapshotCleanup](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=VMSnapshotCleanup&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/VMSnapshotCleanup)
+
+</div>
+
+## Current focus
+
+<table>
+  <tr>
+    <td><strong>Automation</strong></td>
+    <td>PowerShell and setup flows that make machines easier to prepare, maintain, and debug.</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Sysadmin-flavored tooling, SQL Server/Windows work, validation, and repeatable fixes.</td>
+  </tr>
+  <tr>
+    <td><strong>Utilities</strong></td>
+    <td>Small Python and desktop tools that solve one annoying problem well.</td>
+  </tr>
+  <tr>
+    <td><strong>Open source</strong></td>
+    <td>Targeted PRs, issue follow-up, and careful local verification before handing work upstream.</td>
+  </tr>
+</table>
+
+## Recent public activity
+
+<!--RECENT_ACTIVITY:last_update-->
+Last updated: Sunday, June 28th, 2026, 4:14:41 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
+1. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+2. Opened a pull request in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+3. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+4. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+5. Opened a pull request in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+6. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+<!--RECENT_ACTIVITY:end-->
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,55:1d4ed8,100:0f172a)
+
+</div>
