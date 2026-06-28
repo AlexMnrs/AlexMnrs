@@ -12,12 +12,14 @@
 
 ## What I build
 
-I like practical software: automation, infrastructure helpers, small desktop utilities, scripts that save time, and clean fixes to projects I use.
+I build practical systems tooling and developer-facing utilities for Windows, infrastructure, automation, and everyday technical workflows.
 
-- Systems and automation: PowerShell, Windows, SQL Server tooling, setup scripts.
-- Useful utilities: Python tools, network checks, file sharing, desktop helpers.
-- Web and product experiments: TypeScript, UI workflows, browser-based tools.
-- Open source: focused PRs, maintenance fixes, validation, and repo hygiene.
+I like projects that make a real task easier to run, verify, document, or maintain: small enough to be useful quickly, but polished enough that someone else can understand and trust them.
+
+- Systems and automation: PowerShell, Windows, SQL Server tooling, setup scripts, and repeatable workflows.
+- Developer experience: clear documentation, useful checks, local validation, and project hygiene.
+- Product-minded utilities: focused Python, TypeScript, and desktop tools that solve one workflow problem well.
+- Open source: focused PRs that improve setup, troubleshooting, documentation, tests, and maintainability.
 
 ## Activity at a glance
 
@@ -36,8 +38,8 @@ I like practical software: automation, infrastructure helpers, small desktop uti
 
 <div align="center">
 
+[![PromptFlow](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=PromptFlow&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/PromptFlow)
 [![UltraShare](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=UltraShare&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/UltraShare)
-[![SimpleAlwaysOnTop](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=SimpleAlwaysOnTop&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/SimpleAlwaysOnTop)
 [![VMSnapshotCleanup](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=VMSnapshotCleanup&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/VMSnapshotCleanup)
 
 </div>
@@ -46,22 +48,29 @@ I like practical software: automation, infrastructure helpers, small desktop uti
 
 <table>
   <tr>
-    <td><strong>Automation</strong></td>
-    <td>PowerShell and setup flows that make machines easier to prepare, maintain, and debug.</td>
+    <td><strong>Systems tooling</strong></td>
+    <td>PowerShell, Windows, setup flows, and utilities that make machines easier to prepare, maintain, and debug.</td>
   </tr>
   <tr>
     <td><strong>Infrastructure</strong></td>
-    <td>Sysadmin-flavored tooling, SQL Server/Windows work, validation, and repeatable fixes.</td>
+    <td>Sysadmin-flavored work around SQL Server, VMware, local validation, troubleshooting, and repeatable fixes.</td>
   </tr>
   <tr>
-    <td><strong>Utilities</strong></td>
-    <td>Small Python and desktop tools that solve one annoying problem well.</td>
+    <td><strong>Useful apps</strong></td>
+    <td>Small Python and TypeScript tools with clear workflows, practical documentation, and a low barrier to trying them.</td>
   </tr>
   <tr>
     <td><strong>Open source</strong></td>
-    <td>Targeted PRs, issue follow-up, and careful local verification before handing work upstream.</td>
+    <td>Targeted PRs that improve setup, documentation, Windows support, tests, and contributor experience.</td>
   </tr>
 </table>
+
+## Recent upstream contributions
+
+- [dsccommunity/SqlServerDsc#2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463) — fixed duplicate wording in localized SQL Server DSC resource strings.
+- [RonaldHensbergen/composable-data-stack#100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100) — added Windows setup instructions and normalized path output for tests.
+- [Renn-Labs/LoopPrint#12](https://github.com/Renn-Labs/LoopPrint/pull/12) — added a Windows install helper and documented the PowerShell setup path.
+- [pmady/keda-gpu-scaler#108](https://github.com/pmady/keda-gpu-scaler/pull/108) — added deployment troubleshooting documentation for GPU scaler users.
 
 ## Recent public activity
 
