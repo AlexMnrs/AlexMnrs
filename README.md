@@ -75,16 +75,16 @@ I like projects that make a real task easier to run, verify, document, or mainta
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, June 28th, 2026, 4:14:41 PM
+Last updated: Monday, June 29th, 2026, 6:58:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-2. Opened a pull request in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+1. Closed an issue in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+2. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
 3. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-4. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-5. Opened a pull request in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-6. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+4. Updated [AlexMnrs/VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup)<br>
+5. Updated [AlexMnrs/UltraShare](https://github.com/AlexMnrs/UltraShare)<br>
+6. Updated [AlexMnrs/VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
