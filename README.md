@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:22c55e&text=LeX%20%7C%20Alex%20Monras&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Sysadmin%20%2B%20Computer%20Science%20enthusiast&descAlign=50&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:22c55e&text=LeX%20%7C%20Alex%20Monras&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Systems%20tooling%20%2B%20developer%20workflows&descAlign=50&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Automating+the+boring+parts;PowerShell%2C+Python%2C+TypeScript;Infrastructure%2C+tooling%2C+small+useful+apps;Open-source+PRs+and+hands-on+systems+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Practical+systems+tooling;Windows%2C+PowerShell%2C+Python%2C+TypeScript;Infrastructure+and+developer+workflows;Open-source+PRs+with+clear+validation)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=AlexMnrs&style=for-the-badge&color=22c55e)](https://github.com/AlexMnrs)
 [![GitHub followers](https://img.shields.io/github/followers/AlexMnrs?style=for-the-badge&logo=github&color=1d4ed8)](https://github.com/AlexMnrs?tab=followers)
@@ -12,14 +12,14 @@
 
 ## What I build
 
-I build practical systems tooling and developer-facing utilities for Windows, infrastructure, automation, and everyday technical workflows.
+I work on practical tooling for Windows, infrastructure, automation, and developer workflows.
 
-I like projects that make a real task easier to run, verify, document, or maintain: small enough to be useful quickly, but polished enough that someone else can understand and trust them.
+Most of my projects start from a real friction point: a setup step that should be repeatable, a local workflow that needs a cleaner UI, or a script that deserves better documentation and validation.
 
-- Systems and automation: PowerShell, Windows, SQL Server tooling, setup scripts, and repeatable workflows.
-- Developer experience: clear documentation, useful checks, local validation, and project hygiene.
-- Product-minded utilities: focused Python, TypeScript, and desktop tools that solve one workflow problem well.
-- Open source: focused PRs that improve setup, troubleshooting, documentation, tests, and maintainability.
+- Windows and infrastructure: PowerShell, SQL Server, VMware, setup flows, and repeatable maintenance work.
+- Developer tooling: Python and TypeScript apps that solve one practical workflow problem well.
+- Project hygiene: clear READMEs, useful checks, local validation, and easier first runs.
+- Open source: focused PRs for setup, troubleshooting, documentation, tests, and Windows support.
 
 ## Activity at a glance
 
@@ -44,6 +44,10 @@ I like projects that make a real task easier to run, verify, document, or mainta
 
 </div>
 
+- [PromptFlow](https://github.com/AlexMnrs/PromptFlow): mobile-first teleprompter PWA with camera recording, local script storage, browser fallbacks, and JSON script backups.
+- [UltraShare](https://github.com/AlexMnrs/UltraShare): Windows desktop utility for sharing a clean standard-size region from an ultrawide monitor.
+- [VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup): PowerShell utility for resetting VMware Workstation VMs from a known-good snapshot and cleaning old backup folders.
+
 ## Current focus
 
 <table>
@@ -53,11 +57,11 @@ I like projects that make a real task easier to run, verify, document, or mainta
   </tr>
   <tr>
     <td><strong>Infrastructure</strong></td>
-    <td>Sysadmin-flavored work around SQL Server, VMware, local validation, troubleshooting, and repeatable fixes.</td>
+    <td>SQL Server, VMware, local validation, troubleshooting, and repeatable fixes for real maintenance workflows.</td>
   </tr>
   <tr>
-    <td><strong>Useful apps</strong></td>
-    <td>Small Python and TypeScript tools with clear workflows, practical documentation, and a low barrier to trying them.</td>
+    <td><strong>Focused utilities</strong></td>
+    <td>Python and TypeScript tools with clear workflows, practical documentation, and a low barrier to trying them.</td>
   </tr>
   <tr>
     <td><strong>Open source</strong></td>
@@ -65,12 +69,12 @@ I like projects that make a real task easier to run, verify, document, or mainta
   </tr>
 </table>
 
-## Recent upstream contributions
+## Merged upstream contributions
 
-- [dsccommunity/SqlServerDsc#2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463) — fixed duplicate wording in localized SQL Server DSC resource strings.
-- [RonaldHensbergen/composable-data-stack#100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100) — added Windows setup instructions and normalized path output for tests.
-- [Renn-Labs/LoopPrint#12](https://github.com/Renn-Labs/LoopPrint/pull/12) — added a Windows install helper and documented the PowerShell setup path.
-- [pmady/keda-gpu-scaler#108](https://github.com/pmady/keda-gpu-scaler/pull/108) — added deployment troubleshooting documentation for GPU scaler users.
+- [dsccommunity/SqlServerDsc#2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463): fixed duplicate wording in localized SQL Server DSC resource strings.
+- [RonaldHensbergen/composable-data-stack#100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100): added Windows setup instructions and normalized path output for tests.
+- [Renn-Labs/LoopPrint#12](https://github.com/Renn-Labs/LoopPrint/pull/12): added a Windows install helper and documented the PowerShell setup path.
+- [pmady/keda-gpu-scaler#108](https://github.com/pmady/keda-gpu-scaler/pull/108): added deployment troubleshooting documentation for GPU scaler users.
 
 ## Recent public activity
 
