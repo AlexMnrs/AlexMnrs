@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, June 29th, 2026, 6:58:42 AM
+Last updated: Monday, June 29th, 2026, 6:10:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed an issue in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-2. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-3. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-4. Updated [AlexMnrs/VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup)<br>
-5. Updated [AlexMnrs/UltraShare](https://github.com/AlexMnrs/UltraShare)<br>
-6. Updated [AlexMnrs/VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup)<br>
+1. Commented in [chendbox/mlis](https://github.com/chendbox/mlis)<br>
+2. Updated [AlexMnrs/mlis](https://github.com/AlexMnrs/mlis)<br>
+3. Updated [AlexMnrs/SqlServerDsc](https://github.com/AlexMnrs/SqlServerDsc)<br>
+4. Commented in [dsccommunity/SqlServerDsc](https://github.com/dsccommunity/SqlServerDsc)<br>
+5. Commented in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
+6. Updated [AlexMnrs/SqlServerDsc](https://github.com/AlexMnrs/SqlServerDsc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
