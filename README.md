@@ -79,12 +79,12 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, July 1st, 2026, 6:53:03 AM
+Last updated: Wednesday, July 1st, 2026, 5:11:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
-2. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+1. Updated [AlexMnrs/zario](https://github.com/AlexMnrs/zario)<br>
+2. Updated [AlexMnrs/Vibesafe](https://github.com/AlexMnrs/Vibesafe)<br>
 3. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
 4. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
 5. Updated [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
