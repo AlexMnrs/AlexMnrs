@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Friday, July 17th, 2026, 5:35:08 AM
+Last updated: Friday, July 17th, 2026, 4:01:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Commented in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
-2. Starred [brave/brave-browser](https://github.com/brave/brave-browser)<br>
-3. Starred [decolua/9router](https://github.com/decolua/9router)<br>
-4. Forked [AlexMnrs/eur-lex-mcp-server](https://github.com/AlexMnrs/eur-lex-mcp-server) from [cyanheads/eur-lex-mcp-server](https://github.com/cyanheads/eur-lex-mcp-server)<br>
-5. Commented in [brave/brave-browser](https://github.com/brave/brave-browser)<br>
-6. Opened an issue in [AlexMnrs/PromptFlow](https://github.com/AlexMnrs/PromptFlow)<br>
+1. Starred [lobehub/lobehub](https://github.com/lobehub/lobehub)<br>
+2. Commented in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
+3. Starred [brave/brave-browser](https://github.com/brave/brave-browser)<br>
+4. Starred [decolua/9router](https://github.com/decolua/9router)<br>
+5. Forked [AlexMnrs/eur-lex-mcp-server](https://github.com/AlexMnrs/eur-lex-mcp-server) from [cyanheads/eur-lex-mcp-server](https://github.com/cyanheads/eur-lex-mcp-server)<br>
+6. Commented in [brave/brave-browser](https://github.com/brave/brave-browser)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
