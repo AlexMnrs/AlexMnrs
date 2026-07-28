@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Tuesday, July 28th, 2026, 5:32:31 AM
+Last updated: Tuesday, July 28th, 2026, 4:34:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)<br>
-2. Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
-3. Starred [browser-use/video-use](https://github.com/browser-use/video-use)<br>
-4. Starred [openshiporg/openship](https://github.com/openshiporg/openship)<br>
-5. Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-6. Starred [lobehub/lobehub](https://github.com/lobehub/lobehub)<br>
+1. Starred [ademisler/codexcontrol](https://github.com/ademisler/codexcontrol)<br>
+2. Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)<br>
+3. Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
+4. Starred [browser-use/video-use](https://github.com/browser-use/video-use)<br>
+5. Starred [openshiporg/openship](https://github.com/openshiporg/openship)<br>
+6. Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
