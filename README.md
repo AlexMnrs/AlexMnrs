@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, July 30th, 2026, 5:25:54 AM
+Last updated: Thursday, July 30th, 2026, 4:29:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant)<br>
-2. Starred [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)<br>
-3. Starred [jaypaun007/youtube-transcript-api](https://github.com/jaypaun007/youtube-transcript-api)<br>
-4. Starred [ademisler/codexcontrol](https://github.com/ademisler/codexcontrol)<br>
-5. Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)<br>
-6. Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
+1. Starred [Archive228/loopkit](https://github.com/Archive228/loopkit)<br>
+2. Starred [soulduse/ai-token-monitor](https://github.com/soulduse/ai-token-monitor)<br>
+3. Starred [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant)<br>
+4. Starred [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)<br>
+5. Starred [jaypaun007/youtube-transcript-api](https://github.com/jaypaun007/youtube-transcript-api)<br>
+6. Starred [ademisler/codexcontrol](https://github.com/ademisler/codexcontrol)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
