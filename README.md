@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Friday, July 31st, 2026, 5:48:13 AM
+Last updated: Friday, July 31st, 2026, 4:32:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
-2. Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
-3. Starred [Archive228/loopkit](https://github.com/Archive228/loopkit)<br>
-4. Starred [soulduse/ai-token-monitor](https://github.com/soulduse/ai-token-monitor)<br>
-5. Starred [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant)<br>
-6. Starred [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)<br>
+1. Starred [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)<br>
+2. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
+3. Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
+4. Starred [Archive228/loopkit](https://github.com/Archive228/loopkit)<br>
+5. Starred [soulduse/ai-token-monitor](https://github.com/soulduse/ai-token-monitor)<br>
+6. Starred [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
