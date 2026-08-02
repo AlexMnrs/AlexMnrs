@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, August 1st, 2026, 3:52:54 PM
+Last updated: Sunday, August 2nd, 2026, 5:50:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)<br>
-2. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
-3. Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
-4. Starred [Archive228/loopkit](https://github.com/Archive228/loopkit)<br>
-5. Starred [soulduse/ai-token-monitor](https://github.com/soulduse/ai-token-monitor)<br>
-6. Starred [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant)<br>
+1. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
+2. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
+3. Starred [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)<br>
+4. Starred [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)<br>
+5. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
+6. Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
