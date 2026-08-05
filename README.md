@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, August 5th, 2026, 5:30:13 AM
+Last updated: Wednesday, August 5th, 2026, 4:30:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
-2. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
-3. Starred [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)<br>
-4. Starred [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)<br>
-5. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
-6. Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
+1. Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)<br>
+2. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
+3. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
+4. Starred [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)<br>
+5. Starred [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)<br>
+6. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
