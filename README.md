@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, August 6th, 2026, 5:34:09 AM
+Last updated: Thursday, August 6th, 2026, 4:32:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)<br>
-2. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
-3. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
-4. Starred [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)<br>
-5. Starred [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)<br>
-6. Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
+1. Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)<br>
+2. Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)<br>
+3. Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)<br>
+4. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
+5. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
+6. Starred [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
