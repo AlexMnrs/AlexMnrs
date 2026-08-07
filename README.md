@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, August 6th, 2026, 4:32:39 PM
+Last updated: Friday, August 7th, 2026, 5:13:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)<br>
-2. Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)<br>
-3. Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)<br>
-4. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
-5. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
-6. Starred [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)<br>
+1. Starred [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)<br>
+2. Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)<br>
+3. Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)<br>
+4. Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)<br>
+5. Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)<br>
+6. Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
