@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, August 10th, 2026, 4:32:29 AM
+Last updated: Monday, August 10th, 2026, 3:41:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened a pull request in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)<br>
-2. Commented in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)<br>
-3. Updated [AlexMnrs/transcria](https://github.com/AlexMnrs/transcria)<br>
-4. Opened a pull request in [Martossien/transcria](https://github.com/Martossien/transcria)<br>
-5. Forked [AlexMnrs/transcria](https://github.com/AlexMnrs/transcria) from [Martossien/transcria](https://github.com/Martossien/transcria)<br>
-6. Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)<br>
+1. Opened a pull request in [alphacrack/cdk-nag-extension](https://github.com/alphacrack/cdk-nag-extension)<br>
+2. Forked [AlexMnrs/cdk-nag-extension](https://github.com/AlexMnrs/cdk-nag-extension) from [alphacrack/cdk-nag-extension](https://github.com/alphacrack/cdk-nag-extension)<br>
+3. Updated [AlexMnrs/kana-dojo](https://github.com/AlexMnrs/kana-dojo)<br>
+4. Opened a pull request in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)<br>
+5. Commented in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)<br>
+6. Updated [AlexMnrs/transcria](https://github.com/AlexMnrs/transcria)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
