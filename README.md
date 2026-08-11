@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, August 10th, 2026, 3:41:36 PM
+Last updated: Tuesday, August 11th, 2026, 4:25:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened a pull request in [alphacrack/cdk-nag-extension](https://github.com/alphacrack/cdk-nag-extension)<br>
-2. Forked [AlexMnrs/cdk-nag-extension](https://github.com/AlexMnrs/cdk-nag-extension) from [alphacrack/cdk-nag-extension](https://github.com/alphacrack/cdk-nag-extension)<br>
-3. Updated [AlexMnrs/kana-dojo](https://github.com/AlexMnrs/kana-dojo)<br>
-4. Opened a pull request in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)<br>
-5. Commented in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)<br>
-6. Updated [AlexMnrs/transcria](https://github.com/AlexMnrs/transcria)<br>
+1. Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)<br>
+2. Starred [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)<br>
+3. Updated [AlexMnrs/homelab-hispano](https://github.com/AlexMnrs/homelab-hispano)<br>
+4. Updated [AlexMnrs/homelab-hispano](https://github.com/AlexMnrs/homelab-hispano)<br>
+5. Released something in [AlexMnrs/homelab-hispano](https://github.com/AlexMnrs/homelab-hispano)<br>
+6. Updated [AlexMnrs/homelab-hispano](https://github.com/AlexMnrs/homelab-hispano)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
