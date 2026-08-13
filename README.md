@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, August 13th, 2026, 4:45:12 AM
+Last updated: Thursday, August 13th, 2026, 3:45:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-2. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-3. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-4. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-5. Forked [AlexMnrs/hermes-agent](https://github.com/AlexMnrs/hermes-agent) from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-6. Opened an issue in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+2. Opened a pull request in [embwl0x/hermes-agent](https://github.com/embwl0x/hermes-agent)<br>
+3. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+4. Opened an issue in [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter)<br>
+5. Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br>
+6. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
