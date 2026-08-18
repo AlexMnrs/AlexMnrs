@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, August 17th, 2026, 3:03:42 PM
+Last updated: Tuesday, August 18th, 2026, 3:48:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Updated [AlexMnrs/hermes-agent](https://github.com/AlexMnrs/hermes-agent)<br>
-2. Updated [AlexMnrs/hermes-agent](https://github.com/AlexMnrs/hermes-agent)<br>
-3. Starred [chiruu12/OSS-Skills](https://github.com/chiruu12/OSS-Skills)<br>
-4. Starred [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)<br>
-5. Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)<br>
-6. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+1. Starred [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault)<br>
+2. Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
+3. Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br>
+4. Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br>
+5. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+6. Updated [AlexMnrs/hermes-agent](https://github.com/AlexMnrs/hermes-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
