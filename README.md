@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, August 19th, 2026, 3:51:21 AM
+Last updated: Wednesday, August 19th, 2026, 3:06:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault)<br>
-2. Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
-3. Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br>
-4. Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br>
-5. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-6. Updated [AlexMnrs/hermes-agent](https://github.com/AlexMnrs/hermes-agent)<br>
+1. Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
+2. Starred [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault)<br>
+3. Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
+4. Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br>
+5. Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br>
+6. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
