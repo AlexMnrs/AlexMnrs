@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, August 20th, 2026, 3:09:38 PM
+Last updated: Friday, August 21st, 2026, 3:55:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+1. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 2. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-3. Starred [CopilotKit/openbot](https://github.com/CopilotKit/openbot)<br>
-4. Starred [amanthanvi/noctty](https://github.com/amanthanvi/noctty)<br>
-5. Starred [Thr45hx/ghostty-windows](https://github.com/Thr45hx/ghostty-windows)<br>
-6. Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
+3. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+4. Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
+5. Starred [amanthanvi/noctty](https://github.com/amanthanvi/noctty)<br>
+6. Starred [Thr45hx/ghostty-windows](https://github.com/Thr45hx/ghostty-windows)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
