@@ -79,16 +79,16 @@ Most of my projects start from a real friction point: a setup step that should b
 ## Recent public activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, August 22nd, 2026, 3:48:20 AM
+Last updated: Saturday, August 22nd, 2026, 2:58:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [rarf/hermes-quota-plugin](https://github.com/rarf/hermes-quota-plugin)<br>
-2. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-3. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+1. Starred [Echilonvibin/minimaLinux](https://github.com/Echilonvibin/minimaLinux)<br>
+2. Starred [rarf/hermes-quota-plugin](https://github.com/rarf/hermes-quota-plugin)<br>
+3. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 4. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-5. Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
-6. Starred [amanthanvi/noctty](https://github.com/amanthanvi/noctty)<br>
+5. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+6. Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
