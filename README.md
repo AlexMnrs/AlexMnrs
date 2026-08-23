@@ -1,98 +1,38 @@
-<div align="center">
+# Alex Monrás
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:22c55e&text=LeX%20%7C%20Alex%20Monras&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Systems%20tooling%20%2B%20developer%20workflows&descAlign=50&descAlignY=58&animation=fadeIn)
+I make software and automation reliable in the real world — developer tooling, systems, and AI-agent workflows.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Practical+systems+tooling;Windows%2C+PowerShell%2C+Python%2C+TypeScript;Infrastructure+and+developer+workflows;Open-source+PRs+with+clear+validation)](https://git.io/typing-svg)
+I am interested in the parts of software that appear after the demo: installation, compatibility, validation, recovery, documentation, and the small details that make a tool usable by someone else.
 
-[![Profile views](https://komarev.com/ghpvc/?username=AlexMnrs&style=for-the-badge&color=22c55e)](https://github.com/AlexMnrs)
-[![GitHub followers](https://img.shields.io/github/followers/AlexMnrs?style=for-the-badge&logo=github&color=1d4ed8)](https://github.com/AlexMnrs?tab=followers)
-[![GitHub since 2015](https://img.shields.io/badge/GitHub-since%202015-0f172a?style=for-the-badge&logo=github)](https://github.com/AlexMnrs)
+## What I work on
 
-</div>
+- **Systems and operations:** Windows, PowerShell, virtualization, infrastructure, and repeatable maintenance.
+- **Developer tooling:** focused tools that remove friction from setup, debugging, testing, and delivery.
+- **Agent workflows:** practical ways to make AI-assisted development more observable, safer, and easier to operate.
+- **Open source:** targeted contributions that improve installation, documentation, testing, Windows support, and contributor experience.
 
-## What I build
+## Selected work
 
-I work on practical tooling for Windows, infrastructure, automation, and developer workflows.
+- [**PromptFlow**](https://github.com/AlexMnrs/PromptFlow) — a browser-based teleprompter for recording scripts with camera preview, local storage, and graceful browser fallbacks. [Live app](https://alexmnrs.github.io/PromptFlow/)
+- [**UltraShare**](https://github.com/AlexMnrs/UltraShare) — a Windows utility for creating a clean 16:9 sharing region on an ultrawide monitor.
+- [**VMSnapshotCleanup**](https://github.com/AlexMnrs/VMSnapshotCleanup) — a repeatable VMware snapshot reset and backup-cleanup workflow for local test environments.
 
-Most of my projects start from a real friction point: a setup step that should be repeatable, a local workflow that needs a cleaner UI, or a script that deserves better documentation and validation.
+## Open-source contributions
 
-- Windows and infrastructure: PowerShell, SQL Server, VMware, setup flows, and repeatable maintenance work.
-- Developer tooling: Python and TypeScript apps that solve one practical workflow problem well.
-- Project hygiene: clear READMEs, useful checks, local validation, and easier first runs.
-- Open source: focused PRs for setup, troubleshooting, documentation, tests, and Windows support.
+I contribute where software meets real operating constraints:
 
-## Activity at a glance
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexMnrs&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20graph)
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=AlexMnrs&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=GitHub%20stats" alt="AlexMnrs GitHub stats" />
-<img height="168" src="https://streak-stats.demolab.com?user=AlexMnrs&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="AlexMnrs GitHub streak" />
-
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMnrs&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
-
-</div>
-
-## Selected projects
-
-<div align="center">
-
-[![PromptFlow](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=PromptFlow&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/PromptFlow)
-[![UltraShare](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=UltraShare&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/UltraShare)
-[![VMSnapshotCleanup](https://github-readme-stats.vercel.app/api/pin/?username=AlexMnrs&repo=VMSnapshotCleanup&theme=github_dark&hide_border=true)](https://github.com/AlexMnrs/VMSnapshotCleanup)
-
-</div>
-
-- [PromptFlow](https://github.com/AlexMnrs/PromptFlow): mobile-first teleprompter PWA with camera recording, local script storage, browser fallbacks, and JSON script backups.
-- [UltraShare](https://github.com/AlexMnrs/UltraShare): Windows desktop utility for sharing a clean standard-size region from an ultrawide monitor.
-- [VMSnapshotCleanup](https://github.com/AlexMnrs/VMSnapshotCleanup): PowerShell utility for resetting VMware Workstation VMs from a known-good snapshot and cleaning old backup folders.
+- [SqlServerDsc #2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463) — fixed duplicate wording in localized SQL Server resource strings.
+- [composable-data-stack #100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100) — added Windows setup instructions and normalized path output for tests.
+- [LoopPrint #12](https://github.com/Renn-Labs/LoopPrint/pull/12) — added a Windows install helper and documented the PowerShell setup path.
+- [keda-gpu-scaler #108](https://github.com/pmady/keda-gpu-scaler/pull/108) — added deployment troubleshooting documentation for GPU scaler users.
 
 ## Current focus
 
-<table>
-  <tr>
-    <td><strong>Systems tooling</strong></td>
-    <td>PowerShell, Windows, setup flows, and utilities that make machines easier to prepare, maintain, and debug.</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>SQL Server, VMware, local validation, troubleshooting, and repeatable fixes for real maintenance workflows.</td>
-  </tr>
-  <tr>
-    <td><strong>Focused utilities</strong></td>
-    <td>Python and TypeScript tools with clear workflows, practical documentation, and a low barrier to trying them.</td>
-  </tr>
-  <tr>
-    <td><strong>Open source</strong></td>
-    <td>Targeted PRs that improve setup, documentation, Windows support, tests, and contributor experience.</td>
-  </tr>
-</table>
+Agent tooling, developer workflows, and practical systems software — with an emphasis on reliability, validation, and making complex tools easier to use.
 
-## Merged upstream contributions
+I prefer small, understandable improvements that survive contact with a real machine, a real user, and the next person who has to maintain them.
 
-- [dsccommunity/SqlServerDsc#2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463): fixed duplicate wording in localized SQL Server DSC resource strings.
-- [RonaldHensbergen/composable-data-stack#100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100): added Windows setup instructions and normalized path output for tests.
-- [Renn-Labs/LoopPrint#12](https://github.com/Renn-Labs/LoopPrint/pull/12): added a Windows install helper and documented the PowerShell setup path.
-- [pmady/keda-gpu-scaler#108](https://github.com/pmady/keda-gpu-scaler/pull/108): added deployment troubleshooting documentation for GPU scaler users.
+## Elsewhere
 
-## Recent public activity
-
-<!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, August 23rd, 2026, 3:00:19 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:start-->
-1. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-2. Starred [Echilonvibin/minimaLinux](https://github.com/Echilonvibin/minimaLinux)<br>
-3. Starred [rarf/hermes-quota-plugin](https://github.com/rarf/hermes-quota-plugin)<br>
-4. Opened a pull request in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-5. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-6. Commented in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,55:1d4ed8,100:0f172a)
-
-</div>
+- [GitHub](https://github.com/AlexMnrs)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent)
