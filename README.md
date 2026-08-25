@@ -1,8 +1,8 @@
 # Alex Monrás
 
-I make software and automation reliable in the real world — developer tooling, systems, and AI-agent workflows.
+I build practical software and automation that holds up beyond the demo — developer tools, systems software, and AI-assisted workflows.
 
-I am interested in the parts of software that appear after the demo: installation, compatibility, validation, recovery, documentation, and the small details that make a tool usable by someone else.
+I’m most interested in the hard edges: installation, compatibility, validation, recovery, and the details that make tools dependable for real users.
 
 ## What I work on
 
@@ -13,18 +13,18 @@ I am interested in the parts of software that appear after the demo: installatio
 
 ## Selected work
 
+- [**github-activity**](https://github.com/AlexMnrs/github-activity) — a native, theme-aware GitHub contribution calendar for the Noctalia v5 bar, with an interactive annual heatmap, streak statistics, manual refresh, and offline-friendly caching.
 - [**PromptFlow**](https://github.com/AlexMnrs/PromptFlow) — a browser-based teleprompter for recording scripts with camera preview, local storage, and graceful browser fallbacks. [Live app](https://alexmnrs.github.io/PromptFlow/)
 - [**UltraShare**](https://github.com/AlexMnrs/UltraShare) — a Windows utility for creating a clean 16:9 sharing region on an ultrawide monitor.
-- [**VMSnapshotCleanup**](https://github.com/AlexMnrs/VMSnapshotCleanup) — a repeatable VMware snapshot reset and backup-cleanup workflow for local test environments.
 
 ## Open-source contributions
 
 I contribute where software meets real operating constraints:
 
-- [SqlServerDsc #2463](https://github.com/dsccommunity/SqlServerDsc/pull/2463) — fixed duplicate wording in localized SQL Server resource strings.
-- [composable-data-stack #100](https://github.com/RonaldHensbergen/composable-data-stack/pull/100) — added Windows setup instructions and normalized path output for tests.
-- [LoopPrint #12](https://github.com/Renn-Labs/LoopPrint/pull/12) — added a Windows install helper and documented the PowerShell setup path.
-- [keda-gpu-scaler #108](https://github.com/pmady/keda-gpu-scaler/pull/108) — added deployment troubleshooting documentation for GPU scaler users.
+- [Hermes Agent #84469](https://github.com/NousResearch/hermes-agent/pull/84469) — fixed locale-sensitive Windows updater timestamps and added regression coverage.
+- [SqlServerDsc #2466](https://github.com/dsccommunity/SqlServerDsc/pull/2466) — documented Windows credential formats and SQLPS compatibility.
+- [markdown-to-google-docs-mcp #30](https://github.com/AlisterBaroi/markdown-to-google-docs-mcp/pull/30) — handled failed MCP credential syncs with visible recovery feedback.
+- [keda-gpu-scaler #115](https://github.com/pmady/keda-gpu-scaler/pull/115) — added HPA and gRPC checks to the troubleshooting guide.
 
 ## Current focus
 
