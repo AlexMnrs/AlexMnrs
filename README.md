@@ -21,18 +21,13 @@ I’m most interested in the hard edges: installation, compatibility, validation
 
 I contribute where software meets real operating constraints:
 
-- [Hermes Agent #84469](https://github.com/NousResearch/hermes-agent/pull/84469) — fixed locale-sensitive Windows updater timestamps and added regression coverage.
 - [SqlServerDsc #2466](https://github.com/dsccommunity/SqlServerDsc/pull/2466) — documented Windows credential formats and SQLPS compatibility.
 - [markdown-to-google-docs-mcp #30](https://github.com/AlisterBaroi/markdown-to-google-docs-mcp/pull/30) — handled failed MCP credential syncs with visible recovery feedback.
 - [keda-gpu-scaler #115](https://github.com/pmady/keda-gpu-scaler/pull/115) — added HPA and gRPC checks to the troubleshooting guide.
+- [transcria #10](https://github.com/Martossien/transcria/pull/10) — improved Spanish beta translations while preserving catalog structure and technical placeholders.
 
 ## Current focus
 
 Agent tooling, developer workflows, and practical systems software — with an emphasis on reliability, validation, and making complex tools easier to use.
 
 I prefer small, understandable improvements that survive contact with a real machine, a real user, and the next person who has to maintain them.
-
-## Elsewhere
-
-- [GitHub](https://github.com/AlexMnrs)
-- [Hermes Agent](https://github.com/NousResearch/hermes-agent)
